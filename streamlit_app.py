@@ -1,4 +1,6 @@
-import pandas as pd
 import streamlit as st
 
-print('test')
+# Add a title
+st.title('My first app')
+# Add some text
+st.text('Streamlit is great')
